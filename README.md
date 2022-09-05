@@ -20,16 +20,16 @@
 
 ->**Demo Bots**
 
-➡️[BOT 1](https://t.me/rename1robot)    
-➡️[BOT 2](https://t.me/rename2robot)    
-➡️[BOT 3](https://t.me/rename3robot)    
-➡️[BOT 4](https://t.me/rename4robot)   
-➡️[BOT 5](https://t.me/rename5robot)
+
+  
+
+
+
 
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajasekar811/FileRenameBot)
 
 # Required Strings :-
 
@@ -37,9 +37,9 @@
 
 * -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
-* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
+* -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@Raja_sekar_811](http://www.telegram.dog/raja_sekar_811)**
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/SpEcHiDe/AnyDLBot)
+* [SpEcHlDe](https://telegram.dog/SpEcHlDe) For [AnydlBot](https://github.com/Rajasekar811/AnyDLBot)
 * [Dan](https://github.com/delivrance) For This Mind Blowing [Library](https://github.com/pyrogram/pyrogram)
